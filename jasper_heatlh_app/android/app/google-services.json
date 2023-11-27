@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "390459483661",
+    "project_id": "jaspersample-1b93e",
+    "storage_bucket": "jaspersample-1b93e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390459483661:android:3af839e747cd670fc01744",
+        "android_client_info": {
+          "package_name": "com.example.jasper_heatlh_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnKRV94jAGk-SdOrqwqvjgj2mHIVD80wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

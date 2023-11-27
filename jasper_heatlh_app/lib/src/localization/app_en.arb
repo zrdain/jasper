@@ -1,0 +1,10 @@
+{
+  "appTitle": "Jasper Weight Tracker",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "clickToLogin": "Click to Login",
+  "@clickToLogin": {
+    "description": "Text for the login button. Firebase anonymous at the moment"
+  } 
+}
